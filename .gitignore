@@ -1,0 +1,18 @@
+# OSX
+.DS_Store
+
+# pid
+pid
+
+#logs
+logs
+*.log
+
+# git time metric
+.gtm
+
+# config
+config.*
+
+# pyc
+*.pyc
