@@ -1,5 +1,5 @@
 
-class Player():
+class Player(object):
 
 	def __init__(self):
 		super(self).__init__()
@@ -7,7 +7,7 @@ class Player():
 	def play():
 		pass
 
-	
+
 
 
 
